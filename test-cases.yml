@@ -111,7 +111,7 @@
     - В созданной игре выбрать язык  NodeJS  для решения задачи
     - Написать в окне для кода следующий код - "
      const _ = require("lodash");
-    const R = require("rambda");
+     const R = require("rambda");
 
     const solution = (width, length) => {
     return width * length;
