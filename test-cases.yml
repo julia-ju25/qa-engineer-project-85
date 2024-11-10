@@ -117,7 +117,7 @@
      return width * length;
      };
 
-    module.exports = solution;"
+     module.exports = solution;"
     - Нажать кнопку "Run" в редакторе 
   expected-result: |
     Победа в созданной игре
